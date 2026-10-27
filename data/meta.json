@@ -1,0 +1,821 @@
+{
+ "months": {
+  "2025-10": {
+   "label": "令和7年10月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0711-1.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0711-1.zip",
+   "count": 209,
+   "fetched_at": "2026-10-28T07:57:08+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0711/081新規指定医療機関一覧_茨城r0711.xlsx",
+      "shinki_r0711/091新規指定医療機関一覧_栃木r0711.xlsx",
+      "shinki_r0711/101新規指定医療機関一覧_群馬r0711.xlsx",
+      "shinki_r0711/111新規指定医療機関一覧_埼玉r0711.xlsx",
+      "shinki_r0711/121新規指定医療機関一覧_千葉r0711.xlsx",
+      "shinki_r0711/131新規指定医療機関一覧_東京r0711.xlsx",
+      "shinki_r0711/141新規指定医療機関一覧_神奈川r0711.xlsx",
+      "shinki_r0711/151新規指定医療機関一覧_新潟r0711.xlsx",
+      "shinki_r0711/191新規指定医療機関一覧_山梨r0711.xlsx",
+      "shinki_r0711/201新規指定医療機関一覧_長野r0711.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0711/131新規指定医療機関一覧_東京r0711.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 954,
+       "records": 0,
+       "skipped_rows": 893
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 31,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 209
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 209
+    },
+    "source": "pdf"
+   }
+  },
+  "2025-11": {
+   "label": "令和7年11月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0712.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0712.zip",
+   "count": 144,
+   "fetched_at": "2026-10-28T07:59:53+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0712/081新規指定医療機関一覧_茨城r0712.xlsx",
+      "shinki_r0712/091新規指定医療機関一覧_栃木r0712.xlsx",
+      "shinki_r0712/101新規指定医療機関一覧_群馬r0712.xlsx",
+      "shinki_r0712/111新規指定医療機関一覧_埼玉r0712.xlsx",
+      "shinki_r0712/121新規指定医療機関一覧_千葉r0712.xlsx",
+      "shinki_r0712/131新規指定医療機関一覧_東京r0712.xlsx",
+      "shinki_r0712/141新規指定医療機関一覧_神奈川r0712.xlsx",
+      "shinki_r0712/151新規指定医療機関一覧_新潟r0712.xlsx",
+      "shinki_r0712/191新規指定医療機関一覧_山梨r0712.xlsx",
+      "shinki_r0712/201新規指定医療機関一覧_長野r0712.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0712/131新規指定医療機関一覧_東京r0712.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 685,
+       "records": 0,
+       "skipped_rows": 624
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 23,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 144
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 144
+    },
+    "source": "pdf"
+   }
+  },
+  "2025-12": {
+   "label": "令和7年12月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0801.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0801.zip",
+   "count": 138,
+   "fetched_at": "2026-10-28T08:02:33+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0801/081新規指定医療機関一覧_茨城r0801.xlsx",
+      "shinki_r0801/091新規指定医療機関一覧_栃木r0801.xlsx",
+      "shinki_r0801/101新規指定医療機関一覧_群馬r0801.xlsx",
+      "shinki_r0801/111新規指定医療機関一覧_埼玉r0801.xlsx",
+      "shinki_r0801/121新規指定医療機関一覧_千葉r0801.xlsx",
+      "shinki_r0801/131新規指定医療機関一覧_東京r0801.xlsx",
+      "shinki_r0801/141新規指定医療機関一覧_神奈川r0801.xlsx",
+      "shinki_r0801/151新規指定医療機関一覧_新潟r0801.xlsx",
+      "shinki_r0801/191新規指定医療機関一覧_山梨r0801.xlsx",
+      "shinki_r0801/201新規指定医療機関一覧_長野r0801.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0801/131新規指定医療機関一覧_東京r0801.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 649,
+       "records": 0,
+       "skipped_rows": 588
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 21,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 138
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 138
+    },
+    "source": "pdf"
+   }
+  },
+  "2026-01": {
+   "label": "令和8年1月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0802.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0802.zip",
+   "count": 109,
+   "fetched_at": "2026-10-28T08:04:38+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0802/081新規指定医療機関一覧_茨城r0802.xlsx",
+      "shinki_r0802/091新規指定医療機関一覧_栃木r0802.xlsx",
+      "shinki_r0802/101新規指定医療機関一覧_群馬r0802.xlsx",
+      "shinki_r0802/111新規指定医療機関一覧_埼玉r0802.xlsx",
+      "shinki_r0802/121新規指定医療機関一覧_千葉r0802.xlsx",
+      "shinki_r0802/131新規指定医療機関一覧_東京r0802.xlsx",
+      "shinki_r0802/141新規指定医療機関一覧_神奈川r0802.xlsx",
+      "shinki_r0802/151新規指定医療機関一覧_新潟r0802.xlsx",
+      "shinki_r0802/191新規指定医療機関一覧_山梨r0802.xlsx",
+      "shinki_r0802/201新規指定医療機関一覧_長野r0802.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0802/131新規指定医療機関一覧_東京r0802.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 533,
+       "records": 0,
+       "skipped_rows": 472
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 17,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 109
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 109
+    },
+    "source": "pdf"
+   }
+  },
+  "2026-02": {
+   "label": "令和8年2月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0803.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0803.zip",
+   "count": 114,
+   "fetched_at": "2026-10-28T08:06:46+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0803/081新規指定医療機関一覧_茨城r0803.xlsx",
+      "shinki_r0803/091新規指定医療機関一覧_栃木r0803.xlsx",
+      "shinki_r0803/101新規指定医療機関一覧_群馬r0803.xlsx",
+      "shinki_r0803/111新規指定医療機関一覧_埼玉r0803.xlsx",
+      "shinki_r0803/121新規指定医療機関一覧_千葉r0803.xlsx",
+      "shinki_r0803/131新規指定医療機関一覧_東京r0803.xlsx",
+      "shinki_r0803/141新規指定医療機関一覧_神奈川r0803.xlsx",
+      "shinki_r0803/151新規指定医療機関一覧_新潟r0803.xlsx",
+      "shinki_r0803/191新規指定医療機関一覧_山梨r0803.xlsx",
+      "shinki_r0803/201新規指定医療機関一覧_長野r0803.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0803/131新規指定医療機関一覧_東京r0803.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 559,
+       "records": 0,
+       "skipped_rows": 498
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 18,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 114
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 114
+    },
+    "source": "pdf"
+   }
+  },
+  "2026-03": {
+   "label": "令和8年3月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0804.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0804-1.zip",
+   "count": 183,
+   "fetched_at": "2026-10-28T08:10:09+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0804/081新規指定医療機関一覧_茨城r0804.xlsx",
+      "shinki_r0804/091新規指定医療機関一覧_栃木r0804.xlsx",
+      "shinki_r0804/101新規指定医療機関一覧_群馬r0804.xlsx",
+      "shinki_r0804/111新規指定医療機関一覧_埼玉r0804.xlsx",
+      "shinki_r0804/121新規指定医療機関一覧_千葉r0804.xlsx",
+      "shinki_r0804/131新規指定医療機関一覧_東京r0804.xlsx",
+      "shinki_r0804/141新規指定医療機関一覧_神奈川r0804.xlsx",
+      "shinki_r0804/151新規指定医療機関一覧_新潟r0804.xlsx",
+      "shinki_r0804/191新規指定医療機関一覧_山梨r0804.xlsx",
+      "shinki_r0804/201新規指定医療機関一覧_長野r0804.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0804/131新規指定医療機関一覧_東京r0804.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 840,
+       "records": 0,
+       "skipped_rows": 779
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 28,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 183
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 183
+    },
+    "source": "pdf"
+   }
+  },
+  "2026-04": {
+   "label": "令和8年4月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0805.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0805-1.zip",
+   "count": 266,
+   "fetched_at": "2026-10-28T08:15:09+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0805/081新規指定医療機関一覧_茨城r0805.xlsx",
+      "shinki_r0805/091新規指定医療機関一覧_栃木r0805.xlsx",
+      "shinki_r0805/101新規指定医療機関一覧_群馬r0805.xlsx",
+      "shinki_r0805/111新規指定医療機関一覧_埼玉r0805.xlsx",
+      "shinki_r0805/121新規指定医療機関一覧_千葉r0805.xlsx",
+      "shinki_r0805/131新規指定医療機関一覧_東京r0805.xlsx",
+      "shinki_r0805/141新規指定医療機関一覧_神奈川r0805.xlsx",
+      "shinki_r0805/151新規指定医療機関一覧_新潟r0805.xlsx",
+      "shinki_r0805/191新規指定医療機関一覧_山梨r0805.xlsx",
+      "shinki_r0805/201新規指定医療機関一覧_長野r0805.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0805/131新規指定医療機関一覧_東京r0805.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 1186,
+       "records": 0,
+       "skipped_rows": 1125
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 39,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 266
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 266
+    },
+    "source": "pdf"
+   }
+  },
+  "2026-05": {
+   "label": "令和8年5月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0806.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0806.zip",
+   "count": 167,
+   "fetched_at": "2026-10-28T08:18:17+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0806/081新規指定医療機関一覧_茨城r0806.xlsx",
+      "shinki_r0806/091新規指定医療機関一覧_栃木r0806.xlsx",
+      "shinki_r0806/101新規指定医療機関一覧表_群馬r0806.xlsx",
+      "shinki_r0806/111新規指定医療機関一覧_埼玉r0806.xlsx",
+      "shinki_r0806/121新規指定医療機関一覧_千葉r0806.xlsx",
+      "shinki_r0806/131新規指定医療機関一覧_東京r0806.xlsx",
+      "shinki_r0806/141新規指定医療機関一覧_神奈川r0806.xlsx",
+      "shinki_r0806/151新規指定医療機関一覧_新潟r0806.xlsx",
+      "shinki_r0806/191新規指定医療機関一覧_山梨r0806.xlsx",
+      "shinki_r0806/201新規指定医療機関一覧_長野r0806.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0806/131新規指定医療機関一覧_東京r0806.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 776,
+       "records": 0,
+       "skipped_rows": 715
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 25,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 167
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 167
+    },
+    "source": "pdf"
+   }
+  },
+  "2026-06": {
+   "label": "令和8年6月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0807-1.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0807-2.zip",
+   "count": 141,
+   "fetched_at": "2026-10-28T08:20:57+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0807/081新規指定医療機関一覧_茨城r0807.xlsx",
+      "shinki_r0807/091新規指定医療機関一覧_栃木r0807.xlsx",
+      "shinki_r0807/101新規指定医療機関一覧_群馬r0807.xlsx",
+      "shinki_r0807/111新規指定医療機関一覧_埼玉r0807.xlsx",
+      "shinki_r0807/121新規指定医療機関一覧_千葉r0807.xlsx",
+      "shinki_r0807/131新規指定医療機関一覧_東京r0807.xlsx",
+      "shinki_r0807/141新規指定医療機関一覧_神奈川r0807.xlsx",
+      "shinki_r0807/151新規指定医療機関一覧_新潟r0807.xlsx",
+      "shinki_r0807/191新規指定医療機関一覧_山梨r0807.xlsx",
+      "shinki_r0807/201新規指定医療機関一覧_長野r0807.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0807/131新規指定医療機関一覧_東京r0807.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 667,
+       "records": 0,
+       "skipped_rows": 606
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 21,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 141
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 141
+    },
+    "source": "pdf"
+   }
+  },
+  "2026-07": {
+   "label": "令和8年7月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0808.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0808.zip",
+   "count": 108,
+   "fetched_at": "2026-10-28T08:22:59+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0808/081新規指定医療機関一覧_茨城r0808.xlsx",
+      "shinki_r0808/091新規指定医療機関一覧_栃木r0808.xlsx",
+      "shinki_r0808/101新規指定医療機関一覧_群馬r0808.xlsx",
+      "shinki_r0808/111新規指定医療機関一覧_埼玉r0808.xlsx",
+      "shinki_r0808/121新規指定医療機関一覧_千葉r0808.xlsx",
+      "shinki_r0808/131新規指定医療機関一覧_東京r0808.xlsx",
+      "shinki_r0808/141新規指定医療機関一覧_神奈川r0808.xlsx",
+      "shinki_r0808/151新規指定医療機関一覧_新潟r0808.xlsx",
+      "shinki_r0808/201新規指定医療機関一覧_長野r0808.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0808/131新規指定医療機関一覧_東京r0808.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 530,
+       "records": 0,
+       "skipped_rows": 469
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 18,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 108
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 108
+    },
+    "source": "pdf"
+   }
+  },
+  "2026-08": {
+   "label": "令和8年8月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0809.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0809.zip",
+   "count": 110,
+   "fetched_at": "2026-10-28T08:25:01+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0809/081新規指定医療機関一覧_茨城r0809.xlsx",
+      "shinki_r0809/091新規指定医療機関一覧_栃木r0809.xlsx",
+      "shinki_r0809/101新規指定医療機関一覧_群馬r0809.xlsx",
+      "shinki_r0809/111新規指定医療機関一覧_埼玉r0809.xlsx",
+      "shinki_r0809/121新規指定医療機関一覧_千葉r0809.xlsx",
+      "shinki_r0809/131新規指定医療機関一覧_東京r0809.xlsx",
+      "shinki_r0809/141新規指定医療機関一覧_神奈川r0809.xlsx",
+      "shinki_r0809/151新規指定医療機関一覧_新潟r0809.xlsx",
+      "shinki_r0809/191新規指定医療機関一覧_山梨r0809.xlsx",
+      "shinki_r0809/201新規指定医療機関一覧_長野r0809.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0809/131新規指定医療機関一覧_東京r0809.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 529,
+       "records": 0,
+       "skipped_rows": 468
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 17,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 110
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 110
+    },
+    "source": "pdf"
+   }
+  },
+  "2026-09": {
+   "label": "令和8年9月処理分",
+   "pdf": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/131shinki_tokyo_r0810.pdf",
+   "zip": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/shinki_r0810-1.zip",
+   "count": 98,
+   "fetched_at": "2026-10-28T08:26:52+09:00",
+   "diagnostics": {
+    "excel": {
+     "files": [
+      "shinki_r0810/081新規指定医療機関一覧_茨城r0810.xlsx",
+      "shinki_r0810/091新規指定医療機関一覧_栃木r0810.xlsx",
+      "shinki_r0810/101新規指定医療機関一覧_群馬r0810.xlsx",
+      "shinki_r0810/111新規指定医療機関一覧_埼玉r0810.xlsx",
+      "shinki_r0810/121新規指定医療機関一覧_千葉r0810.xlsx",
+      "shinki_r0810/131新規指定医療機関一覧_東京r0810.xlsx",
+      "shinki_r0810/141新規指定医療機関一覧_神奈川r0810.xlsx",
+      "shinki_r0810/151新規指定医療機関一覧_新潟r0810.xlsx",
+      "shinki_r0810/191新規指定医療機関一覧_山梨r0810.xlsx",
+      "shinki_r0810/201新規指定医療機関一覧_長野r0810.xlsx"
+     ],
+     "selected": [
+      {
+       "file": "shinki_r0810/131新規指定医療機関一覧_東京r0810.xlsx",
+       "sheet": "Sheet1",
+       "headers": null,
+       "rows": 489,
+       "records": 0,
+       "skipped_rows": 428
+      }
+     ],
+     "records": 0
+    },
+    "pdf": {
+     "pages": 16,
+     "mode": [
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table",
+      "table"
+     ],
+     "records": 98
+    },
+    "count_mismatch": {
+     "excel": 0,
+     "pdf": 98
+    },
+    "source": "pdf"
+   }
+  }
+ },
+ "checked_at": "2026-10-28T08:26:52+09:00",
+ "updated_at": "2026-10-28T08:26:52+09:00",
+ "total": 1787,
+ "source_page": "https://kouseikyoku.mhlw.go.jp/kantoshinetsu/chousa/shitei.html"
+}
